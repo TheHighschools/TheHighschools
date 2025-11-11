@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Entertainment Sources-The Highschools</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="icon" type="image/x-icon" href="C:\Users\Naol\OneDrive\Desktop\The Highschools\image\favicon.png">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<style>
+    body {
+        background-color: #121212;
+        color: white;
+        font-family: Elms Sans, sans-serif;
+
+    }
+
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: royalblue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+ background-color: blueviolet;
+}
+
+p a:hover {
+  color: blueviolet;
+}
+</style>
+
+    </head>
+    <body>
+        <section style="background-image: url('file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/image/blackboard2.jpeg'); ">
+<h1 align="center" style="font-family: Copperplate, Papyrus, fantasy; color: white; "><b>The Highschools</b></h1>
+</section>
+
+<ul>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/index.html">Home</a></li>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/contact.html">Contact</a></li>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/books.html">Books</a></li>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/quizes.html">Quizes</a></li>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/general_knowledge.html">General Knowledge</a></li>
+  <li><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/information.html">Informations</a></li>
+  <li style="background-color: #9400D3; "><a href="file:///C:/Users/Naol/OneDrive/Desktop/The%20Highschools/WS/entertainment_sources.html">Entertainment Sources</a></li>
+</ul>
+
+
+<p align="center"><i>Cooming soon...</i></p>
+
+<footer>
+  <p align="center" style="font-size: 15px; color: gray; ">2025© The Highschools Team</p>
+</footer>
+
+    </body>
+</html>
